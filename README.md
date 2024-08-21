@@ -2,7 +2,7 @@
 This Flutter project demonstrates a robust implementation of a login screen with Firebase Authentication using Cubit for state management. The application allows users to log in using their email and password, handles loading states, success and error states, integrates Firebase Authentication for secure login, and includes validation for email and password fields.
 
 
-![Alt Text](https://github.com/user-attachments/assets/0faa0b67-9f18-474b-bb2f-452ba40577bf | width=100)
+![Alt Text](https://github.com/user-attachments/assets/0faa0b67-9f18-474b-bb2f-452ba40577bf =250x250)
 
 
 ### Stack:
